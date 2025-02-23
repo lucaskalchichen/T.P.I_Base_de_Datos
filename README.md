@@ -2,7 +2,7 @@
 # **TRABAJO PRACTICO INTEGRADOR -- BASE DE DATOS**
 - - -
 
-# <h1 align="center">**`Nombre a definir`**</h1>
+# <h1 align="center">**`Almacenamiento de Docentes`**</h1>
 ​
 
 <p align="center">
